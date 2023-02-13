@@ -1,4 +1,6 @@
-# 💫 About Me:
+
+
+### Hi wave, I'm Dan :
 🔭 I’m currently working on an E-commerce website <br>👯 I’m looking to collaborate on open-source projects<br>🤝 I’m looking for help with junior full-stack roles<br>🌱 I’m currently learning UI/UX<br>💬 Ask me about React/rails api<br>⚡ Fun fact no commits no commit.
 
 
